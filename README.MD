@@ -118,6 +118,6 @@ This tool is for **educational purposes only**. It does not constitute medical a
 
 ---
 
-## 👥 Authors
+## 👥 Author
 
 - Ayush Gautam (15914803123)
